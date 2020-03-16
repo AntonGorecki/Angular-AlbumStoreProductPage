@@ -22,7 +22,7 @@ import { ProductListComponent } from './product-list/product-list.component';
     BrowserModule,
     FormsModule,
     HttpModule,
-    ProductService
+
   ],
   providers: [ProductService],
   bootstrap: [AppComponent]
